@@ -1,4 +1,4 @@
-# YOURAI - AI Assistant
+# YourAI - AI Assistant
 
 ## Project Overview
 YourAI is an interactive AI Assistant designed to provide users with real-time assistance, answer queries, and enhance productivity. Built entirely using HTML, CSS, and JavaScript, YourAI demonstrates how AI-driven interactions can be implemented directly in a web environment without relying on heavy backend frameworks.
